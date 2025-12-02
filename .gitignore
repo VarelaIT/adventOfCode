@@ -35,3 +35,11 @@ build/
 */node_modules/
 node_modules/
 logs/
+
+
+#RUST EXTENTIONS
+*.exe 
+*.pdb
+
+#RUST FOLDERS
+**/target
